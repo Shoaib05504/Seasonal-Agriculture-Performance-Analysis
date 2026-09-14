@@ -82,3 +82,8 @@ The dataset contains **4,000 records and 28 attributes** related to:
 - `seasonal_agriculture_performance_dataset.csv` – Dataset
 - `Major Project_Seasonal Agriculture Performance Analysis.pdf` – Project document
 - `Seasonal_Agriculture_Performance_Analysis_Presentation.pptx` – Project presentation
+
+- ## Student Details
+
+**Student Name:** Shoaib SW  
+**College:** East Point College of Engineering and Technology, Bengaluru
