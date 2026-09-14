@@ -85,5 +85,5 @@ The dataset contains **4,000 records and 28 attributes** related to:
 
 - ## Student Details
 
-**Student Name:** Shoaib SW  
+**Student Name:** Shoaib S W  
 **College:** East Point College of Engineering and Technology, Bengaluru
